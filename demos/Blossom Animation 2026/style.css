@@ -1,0 +1,13 @@
+body {
+  overflow: hidden;
+  margin: 0;
+}
+
+#scWidget {
+  position: absolute;
+  width: 50vh;
+  height: 50vh;
+  left: calc(50vw - 25vh);
+  top: calc(50vh - 25vh);
+  display: none;
+}
